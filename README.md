@@ -59,7 +59,11 @@
 
 # 👾 GuthZa's Playground
 
-![Snake animation](https://raw.githubusercontent.com/{guthza}/{guthza}/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 > 🐲 **A Mysterious Quest Awaits!**
 > *Adventurer, a secret lies within the commits. Decode the hidden message and prepare yourself to enter the dragon’s lair. Will you dare go deeper?*
