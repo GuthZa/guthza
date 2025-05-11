@@ -17,11 +17,9 @@
 <!-- <p style="text-align: justify;">I have an innate passion for learning and to apply all I have learnt into innovative solutions that can make a difference.</p>&nbsp; -->
 
 <!-- Credit the theme to: https://gh-stats-gen.vercel.app/ -->
-<div align="center" style="display:flex;">
-  <div style="align-items:center;justify-content:space-between;gap:50px">
-    <img src="https://github-readme-stats.vercel.app/api?username=guthza&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=guthza&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guthza&layout=compact&theme=radical" alt="Top Languages" />
-  </div>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-link](https://www.linkedin.com/in/joaofclaro/))
@@ -47,15 +45,25 @@
   <img src="https://img.shields.io/badge/Achievement-Master_Explorer-FF9800?style=for-the-badge&logo=globe" alt="Master Explorer" />
 </div>
 
-<!-- Normal Easter-egg hint -->
-> 🕵️‍♂️ **Secret Path:** A hidden portal lies behind a blank space below…
-[‌ ](https://gooogle.com/)
 
 # 👾 GuthZa's Playground
 
-
 > 🐲 **A Mysterious Quest Awaits!**
 > *Adventurer, a secret lies within the commits. Decode the hidden message and prepare yourself to enter the dragon’s lair. Will you dare go deeper?*
+
+<!-- Normal Easter-egg hint -->
+> 🕵️‍♂️ **Secret Path:** A hidden portal lies behind a blank space below…
+
+<a href="https://github.com/guthza/secret-repo">
+  <img 
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" 
+    width="200" 
+    height="50" 
+    alt=""
+  />
+</a>
+
+
 
 <!--
 **GuthZa/guthza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
