@@ -1,3 +1,5 @@
+# Hi, I'm João Claro 👋
+
 <div align="center">
    <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&color=00FFBB&center=true&vCenter=true&random=false&width=600&lines=%E2%9C%A8+Entering+GuthZa's+Realm+%F0%9F%8C%8C;Let's+code+the+future+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG">
@@ -23,7 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guthza&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-&nbsp;
+### 📞 **Contacts**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-link](https://www.linkedin.com/in/joaofclaro/))
 [![Mail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao9.claro99+github@gmail.com)
@@ -56,6 +58,8 @@
 
 
 # 👾 GuthZa's Playground
+
+![Snake animation](https://raw.githubusercontent.com/{guthza}/{guthza}/output/github-contribution-grid-snake-dark.svg)
 
 > 🐲 **A Mysterious Quest Awaits!**
 > *Adventurer, a secret lies within the commits. Decode the hidden message and prepare yourself to enter the dragon’s lair. Will you dare go deeper?*
